@@ -49,7 +49,7 @@ javac -version
 ### 进入项目目录
 
 ```bash
-cd /Users/cuiky/workDir/simple-rpg-game-java
+cd /simple-rpg-game-java
 ```
 
 ### 编译项目
